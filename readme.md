@@ -1,7 +1,11 @@
 # Phaser 3 Asteroids Game
 
-Screenshots
-
+#### Menu
+![Game Screenshot](https://github.com/FoamyGuy/Phaser3_Asterodis_Example/blob/master/screenshot_menu.PNG?raw=true)
+#### Game
+![Game Screenshot](https://github.com/FoamyGuy/Phaser3_Asterodis_Example/blob/master/screenshot_game.PNG?raw=true)
+#### Mechanic
+![Game Screenshot](https://github.com/FoamyGuy/Phaser3_Asterodis_Example/blob/master/screenshot_mechanic.PNG?raw=true)
 ### Getting Started 
 This project serves as a basic example for a Phaser 3 asteroids game.
 
